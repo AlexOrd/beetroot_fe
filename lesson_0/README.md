@@ -27,7 +27,7 @@
 * [Что такое DNS?](https://1cloud.ru/blog/chto-takoe-dns)
 <!-- * [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/en/company/htmlacademy/blog/254825/) -->
 
-## :house: homework
+<!-- ## :house: homework
 
 #### 1. Используя полученные знания создать HTML-страницу со своим резюме.
    * обязательное наличие фотографии;
@@ -35,7 +35,7 @@
    * без синтаксических ошибок.
 
 #### 2. Создать второй документ с резюме на английском языке.
-   * наличие `<html lang="en"> `
+   * наличие `<html lang="en"> ` -->
 
 ## :nerd_face: in addition
 * <a href="https://youtu.be/0OrIFlrxRZY" target="_blank">ЯК НЕ ЗАГУБИТИ СЕБЕ В АЙТІ?</a>
