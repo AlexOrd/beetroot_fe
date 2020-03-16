@@ -25,7 +25,7 @@
 * [14 VSCODE EXTENSIONS THAT WILL IMPROVE YOUR PRODUCTIVITY](https://x-team.com/blog/14-vscode-extensions/)
 * [How does the INTERNET work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 * [Что такое DNS?](https://1cloud.ru/blog/chto-takoe-dns)
-* [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/en/company/htmlacademy/blog/254825/)
+<!-- * [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/en/company/htmlacademy/blog/254825/) -->
 
 ## :house: homework
 
