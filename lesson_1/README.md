@@ -9,6 +9,7 @@
   * [HTML-ссылки](https://html5book.ru/hyperlinks-in-html/)
   * [Видео и аудио контент](https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
   * [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+  * [Input types](https://www.w3schools.com/html/html_form_input_types.asp)
 
 <!-- ## :notebook: documentation -->
 
