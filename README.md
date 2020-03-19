@@ -31,3 +31,22 @@
 ## HTML/CSS
 1. [What's frontend, HTML basics](./lesson_0)
 2. [HTML 5](lesson_1)
+3. [git, github](lesson_2)
+
+
+<!-- # Lesson 2
+
+## :computer: to install
+
+## :books: to read
+
+## :notebook: documentation
+
+## :pushpin: cheat sheets
+
+## :octocat: advanced
+
+
+## :house: homework
+
+## :nerd_face: in addition -->
