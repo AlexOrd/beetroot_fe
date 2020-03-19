@@ -1,7 +1,7 @@
 # Lesson 1
 
-## :computer: to install
-* [git](https://git-scm.com/downloads)
+## :computer: to do
+* [install git](https://git-scm.com/downloads)
 * [create github account](https://github.com/)
 
 ## :books: to read
