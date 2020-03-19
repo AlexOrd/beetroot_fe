@@ -39,9 +39,11 @@ URL и протоколы URL — система унифицированных 
 
 все ссылки рабочие
 
+## :muscle: practice
+* https://codebra.ru/ru/lessons-html/form/1/1
+* https://codebra.ru/ru/lessons-html/table/1/1
+* https://codebra.ru/ru/lessons-html/htmlfive/1/1
 
 ## :nerd_face: in addition
 * https://dou.ua/lenta/tags/Frontend%20%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82/
-* https://htmlacademy.ru/courses/297
-* https://codebra.ru/
 
