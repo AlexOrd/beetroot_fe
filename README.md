@@ -29,5 +29,5 @@
 * активність - всі мають бути залученими до процесу.
 
 ## HTML/CSS
-1. [Intro](./lesson_0)
-2. [What's frontend, HTML basics](lesson_1)
+1. [What's frontend, HTML basics](./lesson_0)
+2. [HTML 5](lesson_1)
