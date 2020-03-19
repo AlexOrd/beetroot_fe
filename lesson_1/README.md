@@ -1,4 +1,4 @@
-# Lesson 2
+# Lesson 1
 
 ## :computer: to install
 * [git](https://git-scm.com/downloads)
