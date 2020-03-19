@@ -15,6 +15,7 @@
 ## :pushpin: cheat sheets
 * [HTML 5.2. теги](https://html5book.ru/examples/html-tags.html)
 * [Can I use](https://caniuse.com/)
+* [Markup Validation Service](https://validator.w3.org/)
 
 ## :octocat: advanced
 * [audio](https://developer.mozilla.org/ru/docs/Web/HTML/Element/audio)
