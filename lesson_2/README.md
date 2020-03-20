@@ -41,7 +41,8 @@
     git commit -a -m ""
     git commit -m '' file/path
 
-    git branch <branch>
+    git branch (show list of branches)
+    git branch <branch> (create new branch)
     git checkout <branch>
     git checkout -b
     git checkout -f - видалити незакомічені зміни
