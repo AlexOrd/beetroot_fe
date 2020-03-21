@@ -31,7 +31,7 @@
 ## HTML/CSS
 1. [What's frontend, HTML basics](./lesson_0)
 2. [HTML 5](lesson_1)
-3. [git, github](lesson_2)
+3. [git, github](lesson_)
 
 
 <!-- # Lesson 2
