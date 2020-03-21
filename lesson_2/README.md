@@ -4,87 +4,84 @@
 * [GUI Clients](https://git-scm.com/downloads/guis)
 
 ## :books: to do
-* [git setup](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git)
-* [git alias](https://learn.javascript.ru/screencast/git#config-alias)
-<!-- * []() -->
-
+* [Скринкаст по Git](https://learn.javascript.ru/screencast/git)
 
 ## :notebook: documentation
 * [git docs](https://git-scm.com/docs)
+* [git setup](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git)
+* [Командний рядок Windows. Базові команди](https://programming.in.ua/other-files/other/264-command-line-windows-basic-commands.html)
 
 ## :pushpin: cheat sheets
 * [git en](https://www.git-tower.com/blog/git-cheat-sheet/)
 * [git ru](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/)
 * [git ru](https://github.com/nicothin/web-development/tree/master/git)
-* [Oh Shit, Git!?!](https://ohshitgit.com/)
 
+#### bash commands
 ```
-    ls
-    mkdir
-    touch
-    rm
-    mv
-    cp
+    ls - відобразити вміст поточної папки
+    mkdir <dir name> - створити нову папку 
+    touch <file name> - створити файл
+    rm <file name> - видалити файл
+    mv <file name> <new file name> - перейменувати/перемістити файл
+    cp <file name> <path to copy - скопіювати файл
     cat - показати вміст файлу
 ```
 
+#### git main commands
 ```
-    git init
-    git config --global user.name ""
-    git config --global user.email ""
-    git help [command]
-    git add
-    git commit
-    git show
+    git init - створити новий репозиторій
+    git config --global user.name "name" - встановити name користувача
+    git config --global user.email "email@google.com" - встановити email користувача
+    git help [command] - показати довідку
 
+    git add . - додати всі змінені файли (до stage)
+    git reset <filename> - відмінити git add для файлу <filename>
     git add -p - частковий add
-    git commit -a -m ""
-    git commit -m '' file/path
 
-    git branch (show list of branches)
-    git branch <branch> (create new branch)
-    git checkout <branch>
-    git checkout -b
-    git checkout -f - видалити незакомічені зміни
+    git commit -m '' - створити новий коміт
+    git commit -a -m '' - додати файли до stage і створити новий коміт
+    git commit -m '' <file> - створити коміт з окремим файлом <file>
+
+    git branch - показати всі гілки
+    git branch <branch> - створити гілку <branch>
+
+    git checkout <branch> - переключитися на гілку <branch>
+    git checkout -b - створити гілку <branch> і переключитися на неї
+    git checkout -f - очистити незакомічені зміни
     
-    git checkout <hash> (move HEAD)
-    git checkout <hash> <file> (move selected file)
+    git checkout <hash> - переключити репозиторій до вибраного коміту
+    git checkout <hash> <file> - переключити файл до вибраного коміту
+    
+    git stash - покласти змінити на поличку
+    git stash pop - забрати зміни з полички
 
-    git stash
-    git stash pop
+    git merge <branch> - з'єднати 2 гілки в одну
+    git reset --merge - відмінити merge
+    git branch -d <branch name> - видалити гілку 
+    git branch -D <branch name> видалити гілку (якщо воно не з'єднана з іншою)
 
-    git merge <branch>
-    git branch -d <brancj name> (delete branch)
-    git branch -D <brancj name> (delete not merget branch)
+    git reset --hard @~1 - відкатитись на 1 коміт (1 вказує на кількість комітів)
+    git reset --soft @~1 - відкатитись і видалити змінені файли на 1 коміт (1 вказує на кількість комітів)
 
-    git reflog <branch> (show logs)
-    git reset --hard @~1 (go to 1 commit back)
-    git reset --soft @~1 (go to 1 commit with files)
-    git reset --mixed (unstage files)
-    git reset --merge (undo merge)
-    git help reset  
+    git commit --amend - оновити попередній коміт
 
-    git commit -c, -C ORIG_HEAD (закомітити з текстом попереднього коміту)
-    git commit --amend (fix last commit)
+    git merge --no-ff - змерджити 2 гілки в одну , при цьому залишити цю гілку
+    git merge --squash - змерджити 2 гілки в одну, при цьому коміти гілки яку мерджимо зклеїти в одну
+    
+    <!-- git config merge.ff false  -->
 
-    git merge --no-ff
-    git config merge.ff false
-    git merge --squash
+    git rebase master - підтягути master в гілку з переміщенням
+    git revert <hash> - реверт коміта
+    git pull rebase - підтянути останні зміни з origin з переміщенням
 
-    git rebase master
-    git revert <hash>
-    git pull rebase
-
-new your
-
-
-
-
+    git push origin <branch-name> - відправити локальні зміни до origin у гілку <branch-name>
+    git pull origin <branch-name> - отримати origin зміни в локальний репо у гілку <branch-name>
+    git fetch - підтягнути всі змінит з origin
 
 ```
 
 ## :octocat: advanced
-* [Скринкаст по Git](https://learn.javascript.ru/screencast/git)
+* [Navigating the File System](https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-navigation)
 
 ### Термины:
 
@@ -94,17 +91,15 @@ new your
 
 
 ## :house: homework
-1) Залить свое резюме, сделанное на первом занятии на Github и захостить на Github pages, отправить ссылку преподавателю.
-
+1) Залить свое резюме, сделанное на первом занятии на Github и захостить на [Github pages](https://pages.github.com/), отправить ссылку преподавателю.
    * ссылка на резюме рабочая
    * картинки отображаются
 
-2) Залить на Github все имеющиеся практические домашние задания в разные репозитории. Добавить новую ветку в рамках репозитория с резюме и дополнить основной файл резюме ссылками на выполненные работы. Прислать преподавателю ссылку.
+2) Залить на Github все имеющиеся практические домашние задания в репозиторий 'beetroot'. Добавить новую ветку в рамках репозитория с резюме и дополнить основной файл резюме ссылками на выполненные работы. Прислать преподавателю ссылку.
     * использовать хостинг с другой ветки для Github pages
 
 ## :muscle: practice
 * https://githowto.com/ru 
-
 * https://learngitbranching.js.org/ 
 
 <!-- ## :nerd_face: in addition -->
