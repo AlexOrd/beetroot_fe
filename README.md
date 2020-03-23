@@ -34,19 +34,32 @@
 3. [git, github](lesson_)
 
 
-<!-- # Lesson 2
+<!-- # Lesson 3
 
 ## :computer: to install
+* []()
+* * []()
 
 ## :books: to read
+* []()
+* []()
 
 ## :notebook: documentation
+* []()
+* []()
 
 ## :pushpin: cheat sheets
+* []()
+* []()
 
 ## :octocat: advanced
-
+* []()
+* []()
 
 ## :house: homework
+* []()
+* []()
 
-## :nerd_face: in addition -->
+## :nerd_face: in addition
+* []()
+* []() -->
