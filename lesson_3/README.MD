@@ -5,6 +5,7 @@
 * [install Figma](https://www.figma.com/downloads/)
 * [Figma tutorial](https://www.youtube.com/watch?v=hcrxKw_t3Ao)
 * https://htmlacademy.ru/blog/boost/graphics/figma
+* [try inspect this design](https://www.figma.com/file/I6GYaYfWdl8NjV8Dj0K6bU/marketika-free-landing-page?node-id=0%3A2)
 
 ## :books: to read
 * [Каскад](https://ru.hexlet.io/courses/html/lessons/cascade/theory_unit)
