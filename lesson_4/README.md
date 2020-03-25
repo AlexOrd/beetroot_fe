@@ -1,10 +1,11 @@
 
 # Lesson 3
 
-## :computer: to do
+<!-- ## :computer: to do -->
 
 ## :books: to read
 * https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+* https://html5book.ru/css-content/
 
 ## :notebook: documentation
 * https://www.w3schools.com/cssref/css_selectors.asp
@@ -13,8 +14,7 @@
 ## :pushpin: cheat sheets
 * https://learn.javascript.ru/css-selectors
 
-## :octocat: advanced
-* https://html5book.ru/css-content/
+<!-- ## :octocat: advanced -->
 <!-- * https://css-tricks.com/restricting-a-pseudo-element-to-its-parents-border-box/ -->
 
 Селектор — это часть CSS-правила, которая сообщает браузеру, к какому элементу
