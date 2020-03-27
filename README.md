@@ -31,8 +31,10 @@
 ## HTML/CSS
 1. [What's frontend, HTML basics](./lesson_0)
 2. [HTML 5](lesson_1)
-3. [git, github](lesson_)
-
+3. [Git, github](lesson_2)
+4. [Into CSS, basic selectors](lesson_3)
+5. [Figma, selectors](lesson_4)
+6. [Box-model, Flexbox](lesson_5)
 
 <!-- # Lesson 3
 
