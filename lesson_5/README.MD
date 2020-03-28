@@ -52,7 +52,7 @@ Border — граница элементов.
 Шрифт: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif
 
 
-## :muscle: practice
+<!-- ## :muscle: practice -->
 
   
-<!-- ## :nerd_face: in addition
+<!-- ## :nerd_face: in addition -->
