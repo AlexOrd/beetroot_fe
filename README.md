@@ -34,7 +34,8 @@
 3. [Git, github](lesson_2)
 4. [Into CSS, basic selectors](lesson_3)
 5. [Figma, selectors](lesson_4)
-6. [Box-model, Flexbox](lesson_5)
+6. [Box-model, Float](lesson_5)
+7. [Flexbox](lesson_6)
 
 <!-- # Lesson 3
 

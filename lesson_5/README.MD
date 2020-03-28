@@ -4,17 +4,16 @@
 <!-- ## :computer: to do -->
 
 ## :books: to read
-* https://tproger.ru/translations/how-css-flexbox-works/
-* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-* https://html5book.ru/css3-flexbox
+* https://habr.com/en/post/142486/
+* https://css-tricks.com/all-about-floats/
+* https://css-tricks.com/clearfix-a-lesson-in-web-development-evolution/
 
-## :notebook: documentation
-* https://html5book.ru/block-inline-elements/
-* https://www.w3schools.com/css/css3_flexbox.asp
+<!-- ## :notebook: documentation -->
 
 ## :pushpin: cheat sheets
-* https://ru.learnlayout.com/toc.html
-* https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
+* https://ru.learnlayout.com/float-layout.html
+* https://ru.learnlayout.com/inline-block-layout.html
+
 
 <!-- ## :octocat: advanced -->
 
@@ -52,8 +51,6 @@ Border — граница элементов.
 
 
 ## :muscle: practice
-* https://flexboxfroggy.com/#uk
-* http://www.flexboxdefense.com/
 
   
 <!-- ## :nerd_face: in addition
