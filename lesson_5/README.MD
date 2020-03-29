@@ -8,7 +8,9 @@
 * https://css-tricks.com/all-about-floats/
 * https://css-tricks.com/clearfix-a-lesson-in-web-development-evolution/
 
-<!-- ## :notebook: documentation -->
+## :notebook: documentation
+* https://www.w3schools.com/cssref/css3_pr_background.asp
+* https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient
 
 ## :pushpin: cheat sheets
 * https://ru.learnlayout.com/float-layout.html
@@ -50,7 +52,7 @@ Border — граница элементов.
 Шрифт: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif
 
 
-## :muscle: practice
+<!-- ## :muscle: practice -->
 
   
-<!-- ## :nerd_face: in addition
+<!-- ## :nerd_face: in addition -->
