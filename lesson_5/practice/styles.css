@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Hans Kendrick", sans-serif;
+  background-color: #e2e7ec;
+  margin: 0;
+}
+
+.container {
+  width: 1120px;
+  margin: 91px auto;
+  display: flow-root;
+}
+
+.card-big,
+.card {
+  height: 540px;
+  float: left;
+}
+
+.card-big {
+  width: 740px;
+  background: url(./images/Layer_8.jpg) no-repeat;
+  padding: 404px 43px 40px 43px;
+  margin-right: 20px;
+}
+
+.card-big .card-title {
+  color: #fff;
+}
+
+.card {
+  width: 360px;
+  background-color: #fff;
+}
+
+.card:nth-child(3n + 3),
+.card:nth-child(3n + 4) {
+  margin-right: 20px;
+}
+
+.card:nth-child(n + 3) {
+  margin-top: 20px;
+}
+
+.card-img {
+  margin-top: 70px;
+}
+
+.card-content {
+  padding: 28px 26px 25px 27px;
+}
+
+.card-date {
+  margin: 0;
+  color: #818181;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+.card-title {
+  margin: 21px 0 0;
+  font-size: 22px;
+  text-transform: uppercase;
+}
