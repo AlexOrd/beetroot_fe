@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #fdde7e;
+}
+
+.container {
+    background-color: #fdde7e;
+    padding: 50px 30px;
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    margin: 100px auto;
+}
+
+.item {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 42px 0 36px;
+    text-align: center;
+    width: 360px;
+    box-shadow: 2px 2px 4px 0px #998c8c;
+}
+
+.item:not(:last-child) {
+    margin-right: 30px;
+}
+
+.item:nth-child(2) {
+    padding: 52px 0 55px;
+}
+
+.price {
+    font-size: 70px;
+    color: #02995b;
+    margin-bottom: 23px;
+    font-weight: 600;
+}
+
+.item:nth-child(2) .price {
+    margin-bottom: 43px;
+}
+
+img {
+    margin-bottom: 38px;
+}
+
+.title {
+    font-size: 56px;
+    color: #333333;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.descr {
+    font-size: 20px;
+    color: #848484; 
+    font-weight: 300;
+}
