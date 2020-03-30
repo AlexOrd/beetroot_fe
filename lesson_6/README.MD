@@ -6,6 +6,7 @@
 ## :books: to read
 * https://tproger.ru/translations/how-css-flexbox-works/
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://css-tricks.com/almanac/properties/f/flex/
 * https://html5book.ru/css3-flexbox
 
 ## :notebook: documentation
