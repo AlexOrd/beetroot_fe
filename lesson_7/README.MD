@@ -11,6 +11,8 @@
 * https://www.granneman.com/webdev/coding/css/fonts-and-formatting/web-browser-font-defaults
 * https://css-tricks.com/snippets/css/system-font-stack/
 * https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
+* https://html5book.ru/css3-perepolnenie/
+* https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
 
 ## :notebook: documentation
 * https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
