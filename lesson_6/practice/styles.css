@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: Lato, Helvetica, sans-serif;
     background-color: #fdde7e;
 }
 
@@ -58,6 +58,7 @@ img {
 }
 
 .descr {
+    font-family: Helvetica;
     font-size: 20px;
     color: #848484; 
     font-weight: 300;
