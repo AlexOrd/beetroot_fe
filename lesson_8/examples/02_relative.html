@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>position: relative</title>
+    <style type="text/css">
+        div {
+            width: 200px;
+            height: 200px;
+        }
+        .red {
+            background-color: red;
+        }
+        .green {
+            background-color: green;
+        }
+        .blue {
+            background-color: blue;
+        }
+    </style>
+    <style>
+        .relative {
+            position: relative;
+        }
+        .top {
+            top: 30px;
+        }
+        .left {
+            left: 30px;
+        }
+        .bottom {
+            bottom: 30px;
+        }
+        .right {
+            right: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="red"></div>
+    <div class="green relative top left"></div>
+    <div class="blue"></div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Transform</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="axis-X">
+            <div class="text">
+                ось X
+            </div>
+        </div>
+        <div class="axis-Y">
+            <div class="text">
+                ось Y
+            </div>
+        </div>
+        <div class="content">
+                <h2>Translate</h2>
+                <div>
+                    <div style="transform: translateX(15px); background-color: green">translateX(15px)</div>
+                </div>
+                <div>
+                    <div style="transform: translateY(-15%); background-color: darkolivegreen">translateY(-15%)</div>
+                </div>
+                <div>
+                    <div style="transform: translate(-15px, -15px); background-color: forestgreen">translate(-15px, -15px)</div>
+                </div>
+                <br><br>
+                <h2>Scale</h2>
+                <div>
+                    <div style="transform: scaleX(1.2); background-color: blue">scaleX(1.2)</div>
+                </div>
+                <div>
+                    <div style="transform: scaleY(.8); background-color: cornflowerblue">scaleY(.8)</div>
+                </div>
+                <div>
+                    <div style="transform: scale(-1, 1.2); background-color: darkblue">scale(-1, 1.2)</div>
+                </div>
+                <br><br>
+                <h2>Rotate</h2>
+                <div>
+                    <div style="transform: rotateX(45deg); background-color: red">rotateX(45deg)</div>
+                </div>
+                <div>
+                    <div style="transform: rotateY(-55deg); background-color: orangered">rotateY(-55deg)</div>
+                </div>
+                <div>
+                    <div style="transform: rotateZ(-45deg); background-color: orange">rotate(-45deg)</div>
+                </div>
+                <br><br>
+                <h2>Skew</h2>
+                <div>
+                    <div style="transform: skewX(25deg); background-color: lightseagreen">skewX(25deg)</div>
+                </div>
+                <div>
+                    <div style="transform: skewY(-25deg); background-color: lightgreen">skewY(-25deg)</div>
+                </div>
+                <div>
+                    <div style="transform: skew(-25deg, 25deg); background-color: purple">skew(-25deg, 25deg)</div>
+                </div>
+                <br><br>
+                <h2>Transform-origin</h2>
+                <div>
+                    <div style="transform: rotateZ(-25deg); transform-origin: top right; background-color: yellowgreen">rotate(-25deg)</div>
+                </div>
+                <br><br>
+                <h2>Perspective (для родителя)</h2>
+                <div style="perspective: 1000px">
+                    <div style="transform: rotateY(-55deg); background-color: orchid">rotateY(-55deg)</div>
+                </div>
+        </div>
+    </div>
+</body>
+</html>

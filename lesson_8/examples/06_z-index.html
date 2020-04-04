@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>z-index</title>
+    <style type="text/css">
+        div {
+            width: 200px;
+            height: 200px;
+        }
+        .red {
+            background-color: red;
+        }
+        .green {
+            background-color: green;
+        }
+        .blue {
+            background-color: blue;
+        }
+    </style>
+    <style>
+        .absolute {
+            position: absolute;
+        }
+        .top {
+            top: 30px;
+        }
+        .left {
+            left: 30px;
+        }
+        .top-double {
+            top: 60px;
+        }
+        .left-double {
+            left: 60px;
+        }
+        .z-index-1 {
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="red absolute z-index-1"></div>
+    <div class="green absolute top left"></div>
+    <div class="blue absolute top-double left-double"></div>
+</body>
+</html>

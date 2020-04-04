@@ -37,6 +37,7 @@
 6. [Box-model, Float](lesson_5)
 7. [Flexbox](lesson_6)
 8. [Fonts](lesson_7)
+9. 8. [Position, transformation](lesson_8)
 
 <!-- # Lesson 3
 
