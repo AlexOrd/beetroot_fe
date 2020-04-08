@@ -39,6 +39,7 @@
 8. [Fonts](lesson_7)
 9. [Position, transformation](lesson_8)
 10. [CSS methodologies, BEM](lesson_9)
+11. [Forms](lesson_10)
 
 <!-- # Lesson 3
 
