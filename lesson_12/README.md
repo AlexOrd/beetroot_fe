@@ -5,7 +5,6 @@
 
 ## :books: to read
 * https://habr.com/en/post/434098/
-* https://howis.ru/css-postprocessors-preprocessors/
 * https://danilin.biz/sass-color-functions.htm
 * http://prgssr.ru/development/estetichnyj-sass-chast-1-arhitektura-i-organizaciya.html
 * http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html
