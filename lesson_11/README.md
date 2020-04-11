@@ -12,8 +12,8 @@
 * http://iadramelk.github.io/fronttalks-postprocessors/
 
 ## :notebook: documentation
+* https://sass-scss.ru/guide/
 * http://lesscss.org/
-* https://sass-lang.com/
 * https://stylus-lang.com/
 * https://postcss.org/
 * https://pugjs.org/api/getting-started.html
