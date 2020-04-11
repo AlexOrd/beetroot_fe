@@ -40,8 +40,8 @@
 9. [Position, transformation](lesson_8)
 10. [CSS methodologies, BEM](lesson_9)
 11. [Forms](lesson_10)
-11. [SVG](lesson_11)
-11. [Preprocessors](lesson_12)
+12. [Preprocessors](lesson_11)
+13. [SVG](lesson_12)
 
 <!-- # Lesson 3
 

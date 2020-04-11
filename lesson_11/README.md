@@ -1,40 +1,38 @@
-
 # Lesson 11
 
 <!-- ## :computer: to do -->
 
 ## :books: to read
-* https://css-tricks.com/using-svg/
-* http://webmaster.alexanderklimov.ru/html/svg/structure.php
-* https://svgontheweb.com/ru/
-* https://timeweb.com/ru/community/articles/ikonochnye-shrifty-ili-svg-chto-vybrat-v-2018-1
-
+* https://habr.com/en/post/434098/
+* https://danilin.biz/sass-color-functions.htm
+* http://prgssr.ru/development/estetichnyj-sass-chast-1-arhitektura-i-organizaciya.html
+* http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html
+* http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html
+* https://sass-scss.ru/documentation/sassscript/funktsii/
+* http://iadramelk.github.io/fronttalks-postprocessors/
 
 ## :notebook: documentation
-* https://www.w3schools.com/html/html5_svg.asp
-
+* http://lesscss.org/
+* https://sass-lang.com/
+* https://stylus-lang.com/
+* https://postcss.org/
+* https://pugjs.org/api/getting-started.html
+* https://mozilla.github.io/nunjucks/
 
 ## :pushpin: cheat sheets
-* https://petercollingridge.appspot.com/svg-editor
-* http://yoksel.github.io/url-encoder/
+* http://scg.ar-ch.org/
 
-
-## :octocat: advanced
-* https://habr.com/en/post/439282/
-* https://habr.com/en/post/439722/
-* https://habr.com/en/post/439874/
-* https://habr.com/en/post/440474/
-* https://css-live.ru/articles/rukovodstvo-po-svg-animaciyam-smil.html
-
+<!-- ## :octocat: advanced -->
 
 ### Термины:
-SVG (Scalable Vector Graphics) — масштабируемая векторная графика - язык разметки масштабируемой векторной графики, созданный Консорциумом Всемирной паутины (W3C) и входящий в подмножество расширяемого языка разметки XML, предназначен для описания двумерной векторной и смешанной векторно/растровой графики в формате XML. Поддерживает как неподвижную, так и анимированную интерактивную графику. 
+Переменная — конкретное значение свойства которое можно использовать повторно в документе
+
+Компиляция — трансляция программы, составленной на исходном языке высокого уровня, в эквивалентную программу на низкоуровневом языке.
+
+Метаязык — язык, предназначенный для описания другого языка, называемого объектным языком.
+
+Конкатенация (лат. concatenatio «присоединение цепями; сцепле́ние») — операция склеивания объектов линейной структуры, обычно строк
 
 ## :house: homework
 1. Зібрати і завершити [Cahee](./1.psd)
 2. Зверстати макет (необов'язково) [link](./2.psd)
-
-<!-- ## :muscle: practice -->
-  
-## :nerd_face: in addition
-* https://commons.wikimedia.org/wiki/Category:SVG_maps_of_the_world
