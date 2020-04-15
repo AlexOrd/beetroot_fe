@@ -42,6 +42,7 @@
 11. [Forms](lesson_10)
 12. [Preprocessors](lesson_11)
 13. [SVG](lesson_12)
+14. [Responsive web design](lesson_13)
 
 <!-- # Lesson 3
 
