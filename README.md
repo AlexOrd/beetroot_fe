@@ -43,6 +43,7 @@
 12. [Preprocessors](lesson_11)
 13. [SVG](lesson_12)
 14. [Responsive web design](lesson_13)
+15. [Responsive navigation and images](lesson_14)
 
 <!-- # Lesson 3
 
