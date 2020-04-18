@@ -10,6 +10,7 @@
 * https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
 * https://developer.mozilla.org/ru/docs/Web/HTML/Element/picture
 * https://css-tricks.com/responsive-images-css/
+* https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/
 * https://proglib.io/p/responsive-images/
 * https://frontender.info/simple-responsive-images-with-css-backgrounds/
 * https://habr.com/en/post/275735/
