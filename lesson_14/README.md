@@ -14,6 +14,7 @@
 * https://proglib.io/p/responsive-images/
 * https://frontender.info/simple-responsive-images-with-css-backgrounds/
 * https://habr.com/en/post/275735/
+* https://habr.com/en/company/ruvds/blog/420619/
 
 
 <!-- ## :notebook: documentation -->
